@@ -7,7 +7,7 @@
 
     <TextView
         style="@style/Base.TextAppearance.AppCompat.Display2"
-        android:background="#33b5e5"
+
         android:textColor="#ffffff"
         android:id="@+id/txt_color"
         android:layout_width="match_parent"

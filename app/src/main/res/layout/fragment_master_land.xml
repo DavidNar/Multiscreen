@@ -5,7 +5,9 @@
     android:stretchColumns="0"
     >
 
-    <TableRow>
+    <TableRow
+        android:layout_weight="1"
+        >
         <ListView
             android:id="@+id/list"
             android:layout_height="match_parent"
